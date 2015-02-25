@@ -44,6 +44,7 @@ require(dirname(__FILE__) . '/lib/InvoiceItem.php');
 require(dirname(__FILE__) . '/lib/Plan.php');
 require(dirname(__FILE__) . '/lib/Recipient.php');
 require(dirname(__FILE__) . '/lib/Refund.php');
+require(dirname(__FILE__) . '/lib/TransferReversal.php');
 require(dirname(__FILE__) . '/lib/Subscription.php');
 require(dirname(__FILE__) . '/lib/Token.php');
 require(dirname(__FILE__) . '/lib/Transfer.php');
